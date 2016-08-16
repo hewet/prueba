@@ -21,6 +21,9 @@ public class Player : MonoBehaviour {
 		transform.Translate (0, speed* way, 0);
 
 	/*
+	modificando
+	
+	
 		if (Input.GetKey (up)) {
 			transform.Translate (0, speed, 0);
 		}
